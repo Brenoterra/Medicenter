@@ -293,6 +293,8 @@ footer .widget_title_text{
 
 .departaments_title_info_text{
         display: flex;  
+        color: #727272;
+        font-size: 14px;
 }
 
 .details{
@@ -369,7 +371,32 @@ footer .widget_title_text{
         margin-top: 10px;
 }
 
+.make_info{
+        display: flex;
+        padding-bottom: 10px;
+        border-bottom: #727272 dotted 1px; 
+        color: #727272;
+        font-size: 14px;
+}
 
+
+
+.contact{
+        display: flex;
+        color: #727272;
+        font-size: 14px;
+        border-bottom: #727272 dotted 1px;
+        padding-bottom:10px ;
+        padding-top: 10px;
+
+
+}
+
+.contact img{
+        height: 20px;
+        width: 20px;
+        margin-right: 10px;
+}
 
 
 #banner{
